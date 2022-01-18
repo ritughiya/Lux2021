@@ -1,0 +1,49 @@
+/* Condensed */
+@font-face {
+  font-family: 'Authentic-Sans-Condensed';
+  src: url('AUTHENTICSans-Condensed-90.woff') format('woff'), url('AUTHENTICSans-Condensed-90.woff.woff2')  format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Condensed Light */
+@font-face {
+  font-family: 'Authentic-Sans-Condensed';
+  src: url('AUTHENTICSans-Condensed-60.woff') format('woff'), url('AUTHENTICSans-Condensed-60.woff.woff2')  format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Condensed Regular */
+@font-face {
+  font-family: 'Authentic-Sans-Condensed';
+  src: url('AUTHENTICSans-Condensed-130.woff') format('woff'), url('AUTHENTICSans-Condensed-130.woff.woff2')  format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Authentic-Sans';
+  src: url('AUTHENTICSans-130.woff') format('woff'), url('AUTHENTICSans-130.woff.woff2')  format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Authentic-Sans';
+  src: url('AUTHENTICSans-90.woff') format('woff'), url('AUTHENTICSans-90.woff2')  format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/* Bold */
+@font-face {
+  font-family: 'Authentic-Sans';
+  src: url('AUTHENTICSans-150.woff') format('woff'), url('AUTHENTICSans-150.woff2')  format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+

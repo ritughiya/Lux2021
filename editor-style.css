@@ -1,0 +1,140 @@
+
+/* -------------------------------------------------------------------------- */
+/*	CUSTOM COLORS
+/* -------------------------------------------------------------------------- */
+
+/* Lux Red */
+:root .has-lux-red-color { color: #aa1e1e; }
+:root .has-lux-red-background-color,
+:root .has-lux-red-background-color.has-background-dim { background-color: #ae011e; }
+
+/* Rusty Red */
+:root .has-rusty-red-color { color: #c84628; }
+:root .has-rusty-red-background-color { background-color: #c84628; }
+
+/* Berry */
+:root .has-berry-color { color: #d42b39; }
+:root .has-berry-background-color { background-color: #d42b39; }
+
+/* Lilac */
+:root .has-lilac-color { color: #9a55cc; }
+:root .has-lilac-background-color { background-color: #9a55cc; }
+
+/* Moss */
+:root .has-moss-color { color: #c4bf67; }
+:root .has-moss-background-color { background-color: #c4bf67; }
+
+/* Plum */
+:root .has-plum-color {color: #c38ead; };
+:root .has-plum-background-color { background-color: #c38ead; }
+
+/* Goldenrod */
+:root .has-goldenrod-color {color: #f2da65; };
+:root .has-goldenrod-background-color { background-color: #f2da65; }
+
+/* Sunshine */
+:root .has-sunshine-color {color: #F4DC4A; };
+:root .has-sunshine-background-color { background-color: #F4DC4A; }
+
+/* Latte */
+:root .has-latte-color {color: #eae1ce; }
+:root .has-latte-background-color { background-color: #eae1ce; }
+
+/* Cream  */
+:root .has-cream-color { color: #edede9; }
+:root .has-cream-background-color { background-color: #edede9; }
+
+/* White */
+:root .has-white-color { color: #FFFFFF; }
+:root .has-white-background-color { background-color: #FFFFFF; }
+
+/* Gray */
+:root .has-gray-color { color: #6d6d6d; }
+:root .has-gray-background-color { background-color: #6d6d6d; }
+
+/* Black */
+:root .has-black-color { color: #000000; }
+:root .has-black-background-color { background-color: #000000; }
+
+:root .has-subtle-background-background-color{
+	background-color: #edede9;
+}
+
+
+/* DARK MODE */
+.dark-mode,
+.dark-mode.custom-background,
+.dark-mode #site-header,
+.dark-mode .entry-header,
+.singular.dark-mode .entry-header,
+.dark-mode .featured-media,
+.singular.dark-mode .featured-media:before,
+.dark-mode .footer-nav-widgets-wrapper,
+.dark-mode #site-footer{
+	background-color: #000;
+	color: #FFF;
+}
+
+.dark-mode a{
+	color: inherit;
+	border-color: #c84628; /* rusty red */
+}
+
+.dark-mode a:hover{
+	color: #f4dc4a;
+}
+
+body.dark-mode:not(.overlay-header) .primary-menu > li > a,
+.dark-mode.singular:not(.overlay-header) .entry-header .post-meta a{
+	color: #c84628; /* rusty red */
+}
+
+.dark-mode.single-article .dek{
+	color: #c4bf67;
+
+}
+	
+.editor-post-title__block .editor-post-title__input,	
+.editor-styles-wrapper .entry-content h1,
+.editor-styles-wrapper .entry-content h2,
+.editor-styles-wrapper .entry-content h3,
+.editor-styles-wrapper .entry-content h4,
+.editor-styles-wrapper .entry-content h5,
+.editor-styles-wrapper .entry-content h6,
+.editor-styles-wrapper .entry-content cite,
+.editor-styles-wrapper .entry-content figcaption,
+.editor-styles-wrapper .entry-content table,
+.editor-styles-wrapper .entry-content address,
+.editor-styles-wrapper .entry-content .wp-scaption-text,
+.editor-styles-wrapper .entry-content label{
+    font-family: 'authentic-sans', monospace;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+}
+
+.editor-styles-wrapper h1.serif,
+.editor-styles-wrapper h2.serif,
+.editor-styles-wrapper h3.serif,
+.editor-styles-wrapper h4.serif,
+.editor-styles-wrapper h5.serif{
+		font-family: 'louize-205tf', Garamond, serif;
+
+}
+
+.editor-styles-wrapper h1.fancy,
+.editor-styles-wrapper h2.fancy,
+.editor-styles-wrapper h3.fancy,
+.editor-styles-wrapper h4.fancy,
+.editor-styles-wrapper h5.fancy,
+.editor-styles-wrapper .fancy{
+	font-family: "Cancellaresca-Script-Std";
+	text-transform: none;
+	font-weight: 400;
+}
+
+.editor-styles-wrapper h2.fancy{
+	font-size: 2.5em;
+}
+.editor-styles-wrapper h3.fancy{
+	font-size: 2em;
+}

@@ -1,0 +1,49 @@
+/* Regular */
+@font-face {
+  font-family: 'Louize-205TF';
+  src: url('Louize-Regular-205TF.woff') format('woff'), url('Louize-Regular-205TF.woff2')  format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Italic */
+@font-face {
+  font-family: 'Louize-205TF';
+  src: url('Louize-Italic-205TF.woff') format('woff'), url('Louize-Italic-205TF.woff2')  format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+/*@font-face {
+  font-family: 'Louize-205TF';
+  src: url('Louize-Medium-205TF.woff') format('woff'), url('Louize-Medium-205TF.woff2')  format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}*/
+
+/* Medium Italic*/
+/*@font-face {
+  font-family: 'Louize-205TF';
+  src: url('Louize-Medium-Italic-205TF.woff') format('woff'), url('Louize-Medium-Italic-205TF.woff2')  format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}*/
+
+
+/* Bold */
+@font-face {
+  font-family: 'Louize-205TF';
+  src: url('Louize-Bold-205TF.woff') format('woff'), url('Louize-Bold-205TF.woff2')  format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Louize-205TF';
+  src: url('Louize-Bold-Italic-205TF.woff2') format('woff'), url('Louize-Bold-Italic-205TF.woff2')  format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}

@@ -1,0 +1,26 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4010890, 2021-02-09T20:39:02-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CancellarescaScriptStd by ITC
+ * URL: https://www.myfonts.com/fonts/itc/cancellaresca-script/cancellaresca-script/
+ * Copyright: Copyright 1997 International Typeface Corporation. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d338a");
+@font-face {
+  font-family: "Cancellaresca-Script-Std";
+  src: url('cancellaresca-script-std.woff2') format('woff2'), url('cancellaresca-script-std.woff') format('woff');
+}
+
